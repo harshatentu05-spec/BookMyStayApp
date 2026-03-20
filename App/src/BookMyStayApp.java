@@ -1,13 +1,4 @@
-/**
- * Book My Stay Application
- * Use Case 2: Basic Room Types & Static Availability
- *
- * Demonstrates abstraction, inheritance, and polymorphism
- * using a single-file Java implementation.
- *
- * @author Praneet
- * @version 1.0
- */
+
 public class BookMyStayApp {
 
     // 🔹 Abstract Class
